@@ -1,6 +1,6 @@
-- 👋 Hi, I’m L
-- 👀 an indie game developer
-- 🌱 currently working on web game
+- I’m 404
+- An indie developer
+- Currently working on Challog
 - 📫 [my webside](https://keycode-76.github.io/)
 
 <!---
